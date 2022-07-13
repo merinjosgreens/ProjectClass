@@ -3,11 +3,14 @@ public class ClassA {
 
 	private void method1() {
 		System.out.println("1");
+		System.out.println("11");
 
 	}
 
 	private void method2() {
 		System.out.println("2");
+		System.out.println("22");
+		System.out.println("222");
 
 	}
 
