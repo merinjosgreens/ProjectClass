@@ -16,12 +16,12 @@ public class ClassA {
 
 	private void method3() {
 		System.out.println("3");
-
+		System.out.println("B added this line 1");
 	}
 	
 	private void method4() {
 		// TODO Auto-generated method stub
-
+		System.out.println("B added this line 2");
 	}
 	
 	private void method5() {
